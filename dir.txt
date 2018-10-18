@@ -1,0 +1,1 @@
+/home/centos/Videos is a directory

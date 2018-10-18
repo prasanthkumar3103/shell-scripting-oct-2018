@@ -1,0 +1,1 @@
+/home/centos/two.txt is a file
