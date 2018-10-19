@@ -1,0 +1,15 @@
+*.conf
+.idea/
+*.json
+*.pyc
+*/*.pyc
+/bashsyntax/
+/projects/autoOps/Ansible/playbooks/DirectoryLayout/
+/projects/autoOps/Ansible/playbooks/ansible-examples/
+/projects/dingguodong.github.io/
+/projects/others/
+/projects/PythonHTTPServer/Tornado/demos/
+/projects/WeChatOps/pySendMessageWithWeChat/README.md
+/projects/WeChatOps/pySendMessageWithWeChat/.odbp_db.sqlite3
+/references/
+/templates/
