@@ -1,0 +1,15 @@
+/home/centos/aug-18-python is a directory
+/home/centos/Desktop is a directory
+/home/centos/Documents is a directory
+/home/centos/Downloads is a directory
+/home/centos/Music is a directory
+/home/centos/mypython is a directory
+/home/centos/one.txt is file
+/home/centos/Pictures is a directory
+/home/centos/Public is a directory
+/home/centos/python is a directory
+/home/centos/python-7-aug-2018 is a directory
+/home/centos/Templates is a directory
+/home/centos/tomat-8.5-cluster is a directory
+/home/centos/two.txt is file
+/home/centos/Videos is a directory
