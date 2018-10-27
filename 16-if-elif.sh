@@ -14,3 +14,20 @@ else
 
 fi
    
+
+#!/bin/bash
+
+arg1=$1
+arg2=$2
+arg3=$3
+
+if [ "$arg1" = "$arg2" ] && [ "$arg1" != "$arg3" ]
+then
+    echo "two of the provided are equal $arg1 $arg2 $arg3"
+elif [ $arg1 = $arg2 ] && [ $arg1 = $arg3 ] && [ $arg2 = $arg3 ]
+then
+    echo "ALL OF THE SPECIFIED ARGS ARE EQUAL $arg1 $arg2 $arg3"
+else
+    echo "All of the specified args are different $arg1 $arg2 $arg3"
+fi
+~
