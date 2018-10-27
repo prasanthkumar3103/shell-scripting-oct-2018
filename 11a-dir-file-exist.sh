@@ -20,5 +20,6 @@ then
          echo "$filename file exist in $dir_loc directory and appending some data to file"
          date +%Y%m%d >>$dir_loc/$filename
      fi
-
+else
+    echo "$dir_loc directory is not present ,Please create file system"
 fi
