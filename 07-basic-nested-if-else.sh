@@ -15,3 +15,15 @@ else
    fi
 fi
 
+
+
+
+if [ ! -e  /home/$test_user ]
+    then
+        mkdir /home/$test_user
+    elif [ ! -e  /home/test_user ]
+    then
+        echo "/home/$test_user directory already exist"
+fi
+
+
