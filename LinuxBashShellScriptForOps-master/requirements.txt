@@ -47,7 +47,7 @@ cycler==0.10.0
 daemon==1.1
 decorator==4.2.1
 Delorean==1.0.0
-Django==1.11.9
+Django==1.11.29
 django-bootstrap-form==3.3
 django-bootstrap3==9.1.0
 django-crispy-forms==1.7.0
