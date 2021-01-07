@@ -105,7 +105,7 @@ kombu==4.1.0
 ldap3==2.4.1
 libxml2-python==2.7.7
 lockfile==0.12.2
-lxml==4.2.1
+lxml==4.6.2
 M2CryptoWin64==0.21.1.post3
 Mako==1.0.7
 Markdown==2.6.11
