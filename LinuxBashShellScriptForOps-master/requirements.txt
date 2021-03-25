@@ -192,7 +192,7 @@ pytz==2018.3
 pywin32==223
 pywinrm==0.3.0
 pywinservicemanager==1.0.5
-PyYAML==3.12
+PyYAML==5.4
 pyzabbix==0.7.4
 pyzmq==17.0.0
 qiniu==7.2.0
