@@ -164,7 +164,7 @@ pycurl==7.43.0.1
 pyDes==2.0.1
 PyDispatcher==2.0.5
 pyftpdlib==1.5.3
-Pygments==2.2.0
+Pygments==2.7.4
 pyipcalc==2.0.1
 pymaging==0.1
 pymaging-png==0.1
