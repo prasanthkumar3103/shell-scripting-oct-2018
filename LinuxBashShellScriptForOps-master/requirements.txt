@@ -154,7 +154,7 @@ psycopg2==2.7.4
 psycopg2-binary==2.7.4
 ptyprocess==0.5.2
 pwd==0.1.3
-py==1.5.3
+py==1.10.0
 pyad==0.5.20
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
