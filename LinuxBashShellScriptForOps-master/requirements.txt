@@ -7,7 +7,7 @@ aliyun-python-sdk-rds==2.1.2
 aliyun-python-sdk-slb==3.2.2
 aliyuncli==2.1.9
 amqp==2.2.2
-ansible==2.5.0
+ansible==2.9.20
 appdirs==1.4.3
 APScheduler==3.5.1
 argh==0.26.2
