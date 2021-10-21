@@ -15,7 +15,7 @@ arrow==0.12.1
 asn1crypto==0.24.0
 attrs==17.4.0
 Automat==0.6.0
-Babel==2.5.3
+Babel==2.9.1
 backports-abc==0.5
 backports.csv==1.0.5
 backports.functools-lru-cache==1.5
