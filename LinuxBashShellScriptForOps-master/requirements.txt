@@ -184,7 +184,7 @@ pytest==3.5.0
 python-daemon==2.1.2
 python-dateutil==2.7.0
 python-exconsole==0.1.5
-python-ldap==2.4.41
+python-ldap==3.4.0
 python-memcached==1.59
 python-nmap==0.6.1
 python-ntlm3==1.0.2
