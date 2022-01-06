@@ -26,7 +26,7 @@ billiard==3.5.0.3
 blinker==1.4
 braceexpand==0.1.2
 bs4==0.0.1
-celery==4.1.0
+celery==5.2.2
 certifi==2018.1.18
 cffi==1.11.5
 chardet==3.0.4
