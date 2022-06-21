@@ -123,7 +123,7 @@ netifaces==0.10.6
 ngxtop==0.0.2
 ntlm-auth==1.1.0
 ntplib==0.3.3
-numpy==1.14.2
+numpy==1.22.0
 olefile==0.45.1
 openpyxl==2.5.1
 ordereddict==1.1
