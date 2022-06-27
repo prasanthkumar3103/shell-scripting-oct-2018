@@ -202,7 +202,7 @@ queuelib==1.5.0
 raven==6.6.0
 reconfigure==0.1.81
 redis==2.10.6
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.18.4
 requests-file==1.4.3
 requests-ntlm==1.1.0
