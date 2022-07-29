@@ -211,7 +211,7 @@ rq==0.10.0
 rsa==3.4.2
 scapy==2.3.3
 scipy==1.0.0
-Scrapy==1.5.0
+Scrapy==2.6.2
 selenium==3.11.0
 service-identity==17.0.0
 shadowsocks==2.8.2
