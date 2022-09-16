@@ -107,7 +107,7 @@ libxml2-python==2.7.7
 lockfile==0.12.2
 lxml==4.2.1
 M2CryptoWin64==0.21.1.post3
-Mako==1.0.7
+Mako==1.2.2
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.2.2
